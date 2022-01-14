@@ -1,0 +1,8 @@
+CheckContract deployed to: 0x8c4fF1969a423376f58f47871BA28ccd5985ef05
+veryfied: https://rinkeby.etherscan.io/address/0x8c4fF1969a423376f58f47871BA28ccd5985ef05#code
+
+CallWithFunction_deployed to: 0x8104e8f5190E1ACbB2C2192D9e2806dE82221f6e
+veryfied: https://rinkeby.etherscan.io/address/0x8104e8f5190E1ACbB2C2192D9e2806dE82221f6e#code
+
+CallWithConstructorFactory deployed to: 0x7C9d8fBd15f9403e34242429E5994a4B8Ed3cFBD
+veryfied: https://rinkeby.etherscan.io/address/0x7C9d8fBd15f9403e34242429E5994a4B8Ed3cFBD#code
